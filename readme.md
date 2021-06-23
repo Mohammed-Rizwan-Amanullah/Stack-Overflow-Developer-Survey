@@ -11,10 +11,10 @@
 
 | Sno  | Name                        | StudentID |
 | ---- | --------------------------- | --------- |
-| 1    | Piyakorn Munegan            | 46318461  |
+| 1    | Mohammed Rizwan Amanullah   | 46277404  |
 | 2    | Sabiha Sultana              | 46804994  |
 | 3    | Sanjay Kanakkot Viswanathan | 46313966  |
-| 4    | Mohammed Rizwan Amanullah   | 46277404  |
+| 4    | Piyakorn Munegan            | 46318461  |
 
 <!-- TABLE OF CONTENTS -->
 
